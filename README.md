@@ -4,7 +4,7 @@
 
 ## Part 1: Returns Analysis
 ### Tasks:
-####  - Price History Timespan:
+####   1. Price History Timespan:
   Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock.
 
 ####   2. Line Plot of Adj. Close Prices:
@@ -22,29 +22,33 @@
 ####   6. Annualized Sharpe Ratios:
   Calculated the Annualized Sharpe Ratios for each stock in the portfolio.
 
-# Part 2: Volume Analysis
-# Tasks:
-# Daily Volume Plot:
+## Part 2: Volume Analysis
+### Tasks:
+#### 1. Daily Volume Plot:
+Created a plot showing the daily volume of stock traded over the time period of 5 years.
 
-# Created a plot showing the daily volume of stock traded over the time period of 5 years.
-# Total Dollar Amount Traded Plot:
+#### 2. Total Dollar Amount Traded Plot:
+Created a plot similar to the daily volume plot, reflecting the total dollar amount traded. This considered the Adjusted Close price as the consensus price for each day.
 
-# Created a similar plot as the daily volume plot, but reflecting the total dollar amount traded. This took into account the Adjusted Close price as the consensus price for each day.
-# Highest Dollar Value Traded:
+#### 3. Highest Dollar Value Traded:
+Determined which stock had the highest dollar value amount traded on a single day, identified the date, and investigated if any significant events occurred around that time for the company.
 
-# Determined which stock had the highest dollar value amount traded on a single day, identified the date, and investigated if any significant events occurred around that time for the company.
-# Part 3: Technical Analysis
-#Tasks:
-# 60-Day Moving Average Plot:
+## Part 3: Technical Analysis
+### Tasks:
+#### 1. 60-Day Moving Average Plot:
+Using BAC(Bank Of America) stock, created a plot showing the Adjusted Close Price and the 60-day moving average of the price on the same plot.
+#### 2. Bollinger Bands:
+Created Bollinger Bands to visualize the stock's price volatility.
 
-# Using BAC stock, created a plot showing the Adjusted Close Price along with the 60-day moving average of the price on the same plot.
-# Bollinger Bands:
+### Getting Started
+##### Prerequisites
+1. Python 
+2. pandas
+3. numpy
+4. matplotlib
+5. Yahoo Finance
 
-# Created Bollinger Bands to visualize the stock's price volatility.
-# Getting Started
-# Prerequisites
-# Python 3.x
-# Jupyter Notebook
-# pandas
-# numpy
-# matplotlib
+## Results
+- <b>Returns Analysis:</b> Provided insights into the stock performance over time, daily returns, and risk-adjusted returns using Sharpe Ratios.
+- <b>Volume Analysis:</b> Showed the trading volume patterns and the significant events that led to high trading volumes.
+- <b>Technical Analysis:</b> Highlighted BAC stock trends and volatility using moving averages and Bollinger Bands.
