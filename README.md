@@ -34,4 +34,10 @@
 - <p><b>Volume Analysis:</b> Showed the trading volume patterns and the significant events that led to high trading volumes.</p>
 - <p><b>Technical Analysis:</b> Highlighted BAC stock trends and volatility using moving averages and Bollinger Bands.</p>
 
+## Conclusion
+This project provides a comprehensive stock data analysis, helping investors understand stock performance, trading volumes, and technical indicators. The methods and visualizations can be extended to other stocks and time periods for further analysis.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 #### Credit for the template: <a href="https://www.udemy.com/user/joseportilla/">Jose Portilla</a> and <a href="https://www.udemy.com/user/pierian-training-2/">Pierian Traning</a>
