@@ -4,7 +4,7 @@
 
 ## Part 1: Returns Analysis
 ### Tasks:
-####   1. Price History Timespan:
+####  - Price History Timespan:
   Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock.
 
 ####   2. Line Plot of Adj. Close Prices:
