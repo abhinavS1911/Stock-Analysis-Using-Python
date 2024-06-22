@@ -4,11 +4,11 @@
 ## Part 1: Returns Analysis
 ### Tasks:
 1. <p><b>Price History Timespan:</b> Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock.</p> 
-2. <b>Line Plot of Adj. Close Prices:</b> Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.
-3. <b>Stock Percent Change Calculation:</b> Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.
-4. <b>Histogram of Daily Returns:</b> Created a histogram of the daily returns for each stock in the portfolio.
-5. <b>Value of $10,000 Investment in BAC:</b> Plotted the value of a $10,000 investment in BAC (approximately 701 shares) at the start of the time series and showed how the value would have changed throughout the time period, resulting in approximately $28,773 at the end.
-6. <b>Annualized Sharpe Ratios:</b> Calculated the Annualized Sharpe Ratios for each stock in the portfolio.
+2. <p><b>Line Plot of Adj. Close Prices:</b> Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.</p>
+3. <p><b>Stock Percent Change Calculation:</b> Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.</p>
+4. <p><b>Histogram of Daily Returns:</b> Created a histogram of the daily returns for each stock in the portfolio.</p>
+5. <p><b>Value of $10,000 Investment in BAC:</b> Plotted the value of a $10,000 investment in BAC (approximately 701 shares) at the start of the time series and showed how the value would have changed throughout the time period, resulting in approximately $28,773 at the end.</p>
+6. <p><b>Annualized Sharpe Ratios:</b> Calculated the Annualized Sharpe Ratios for each stock in the portfolio.</p>
 
 ## Part 2: Volume Analysis
 ### Tasks:
