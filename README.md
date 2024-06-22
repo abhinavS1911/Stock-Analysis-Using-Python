@@ -2,26 +2,26 @@
  Stock Analysis Project
  This project focuses on analyzing stock data using Python and Jupyter Notebook. The analysis is divided into three parts: Returns Analysis, Volume Analysis, and Technical Analysis. Below are the details of the tasks performed in each part of the analysis.
 
-# Part 1: Returns Analysis
-# Tasks:
-# Price History Timespan:
+## Part 1: Returns Analysis
+### Tasks:
+####   1. Price History Timespan:
+  Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock.
 
-# Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock.
-# Line Plot of Adj. Close Prices:
+####   2. Line Plot of Adj. Close Prices:
+  Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.
 
-# Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.
-# Stock Percent Change Calculation:
+####   3. Stock Percent Change Calculation:
+  Developed a function that takes in the Adjusted Close price series and calculates the stock's percent rise or decline from any set of given dates.
 
-# Developed a function that takes in the Adjusted Close price series and calculates the stock's percent rise or decline from any set of given dates.
-# Histogram of Daily Returns:
+####   4. Histogram of Daily Returns:
+  Created a histogram of the daily returns for each stock in the portfolio.
 
-# Created a histogram of the daily returns for each stock in the portfolio.
-# Value of $10,000 Investment in BAC:
+####   5. Value of $10,000 Investment in BAC:
+  Plotted the value of a $10,000 investment in BAC (approximately 701 shares) at the start of the time series and showed how the value would have changed throughout the time period, resulting in approximately $28,773 at the end.
 
-# Plotted the value of a $10,000 investment in BAC (approximately 701 shares) at the start of the time series and showed how the value would have changed throughout the time period, resulting in approximately $28,773 at the end.
-# Annualized Sharpe Ratios:
+####   6. Annualized Sharpe Ratios:
+  Calculated the Annualized Sharpe Ratios for each stock in the portfolio.
 
-# Calculated the Annualized Sharpe Ratios for each stock in the portfolio.
 # Part 2: Volume Analysis
 # Tasks:
 # Daily Volume Plot:
