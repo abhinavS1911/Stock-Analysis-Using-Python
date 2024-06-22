@@ -1,6 +1,6 @@
 # Stock-Analysis-Using-Python
-# Stock Analysis Project
-# This project focuses on analyzing stock data using Python and Jupyter Notebook. The analysis is divided into three parts: Returns Analysis, Volume Analysis, and Technical Analysis. Below are the details of the tasks performed in each part of the analysis.
+ Stock Analysis Project
+ This project focuses on analyzing stock data using Python and Jupyter Notebook. The analysis is divided into three parts: Returns Analysis, Volume Analysis, and Technical Analysis. Below are the details of the tasks performed in each part of the analysis.
 
 # Part 1: Returns Analysis
 # Tasks:
