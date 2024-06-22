@@ -3,7 +3,7 @@
 
 ## Part 1: Returns Analysis
 ### Tasks:
-1. <b>Price History Timespan:</b> Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock. <br>
+1. <p><b>Price History Timespan:</b> Determined the start and end dates for the price history of the stocks. All stocks share the same timespan, so the dates were determined for one stock.</p> 
 2. <b>Line Plot of Adj. Close Prices:</b> Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.
 3. <b>Stock Percent Change Calculation:</b> Created a line plot showing the Adjusted Close prices over the last 5 years for all the stocks in the portfolio, displayed together on the same plot with a legend.
 4. <b>Histogram of Daily Returns:</b> Created a histogram of the daily returns for each stock in the portfolio.
